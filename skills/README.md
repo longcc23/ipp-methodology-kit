@@ -12,5 +12,5 @@
 
 复制后可在各 `SKILL.md` 顶部的 `description` 里加上你们团队常用触发语。
 
-**注意**：Skill 内请用**相对路径或固定 tag** 指向 `methodology-kit` 母本，避免与 `stream2-analysis/docs/` 两套说法漂移；母本以 Git **tag** 为准最佳。
+**注意**：Skill 内请用**相对路径或固定 tag** 指向 `methodology-kit` 母本，确保引用不漂移；母本以 Git **tag** 为准最佳。
 
