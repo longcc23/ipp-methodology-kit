@@ -57,6 +57,3 @@
 
 发布或写作若需**固定某一版方法**，请使用本仓库的 **Git tag / Release**（具体 tag 名由项目维护者公布）。正文可写：「方法协议见仓库 `methodology-kit` 目录 @ tag xxx」。
 
----
-
-*维护者若需发布流程、落地排期、与 AI 协作的备忘，见 **[MAINTAINER.md](./MAINTAINER.md)**（同事可忽略）。*

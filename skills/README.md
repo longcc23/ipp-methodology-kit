@@ -14,4 +14,3 @@
 
 **注意**：Skill 内请用**相对路径或固定 tag** 指向 `methodology-kit` 母本，避免与 `stream2-analysis/docs/` 两套说法漂移；母本以 Git **tag** 为准最佳。
 
-维护者若需发布流程、排期等，见 [MAINTAINER.md](../MAINTAINER.md)。
